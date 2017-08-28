@@ -1,7 +1,7 @@
-# NestedScrollWebView-master
+# NestedScrollWebView
 NestedScrollWebView
 ## How to Use?
-     <com.moj.nestedscrollwebview_master.NestedScrollWebView
+     <com.moj.nestedscrollwebview.NestedScrollWebView
         android:id="@+id/webview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
