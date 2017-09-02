@@ -8,3 +8,4 @@ NestedScrollWebView
         app:layout_behavior="@string/appbar_scrolling_view_behavior
         
 just use it like a normal webview
+Thanks
